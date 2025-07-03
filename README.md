@@ -1,7 +1,9 @@
 # 🖥️ Active Directory Lab in Oracle VirtualBox
 
-A self-contained IT infrastructure lab using **Oracle VirtualBox**, simulating a basic Windows domain with **Active Directory**, **DHCP**, **DNS**, and **internal networking**. This has been great for me for practicing Windows Server administration, domain control, and PowerShell automation. This setup is a simpler version of what you would see in your work or school, where you can take your one username and password and log into many desktops with it.
+This lab was built using **Oracle VirtualBox**, simulating a basic Windows domain with **Active Directory**. This has been great for me for practicing Windows Server administration, domain control, and PowerShell automation. This setup is a simplified version of what you would find in your work or school, where you can take your one username and password and log into multiple desktops with it.
 
+Coming soon...
+📺 - [Showcase of an Active Directory Lab in Oracle VirtualBox](https://www.youtube.com)
 ---
 
 ### 💡 Components:
