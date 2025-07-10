@@ -2,8 +2,8 @@
 
 This lab was built using **Oracle VirtualBox**, simulating a basic Windows domain with **Active Directory**. This has been great for me for practicing Windows Server administration, domain control, and PowerShell automation. This setup is a simplified version of what you would find in your work or school, where you can take your one username and password and log into multiple desktops with it.
 
-Coming soon...
-📺 - [Showcase of an Active Directory Lab in Oracle VirtualBox](https://www.youtube.com)
+
+📺 - [Showcase of an Active Directory Lab in Oracle VirtualBox](https://youtu.be/yiqj17fGhKE)
 ---
 
 ### 💡 Components:
